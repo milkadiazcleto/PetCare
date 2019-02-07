@@ -1,6 +1,6 @@
 {
   "name": "PetCare",
-  "app_id": "",
+  "app_id": "d3983585",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
